@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: I love Editing, singing, and exploring new technologies! 🎤📚
   
-- 📝 I regularly write articles on [https://www.linkedin.com/in/karthikjogi/](https://www.linkedin.com/in/andugala-pujitha-abcd4502/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/andugala-pujitha-abcd4502/](https://www.linkedin.com/in/andugala-pujitha-abcd4502/)
 
 - 💬 Ask me about **Data Science,MERN**
 
