@@ -7,7 +7,7 @@
   
 - 😄 Pronouns: She/Her
 
-- ⚡ Fun fact: I love Editing and exploring new technologies! 🎤📚
+- ⚡ Fun fact: I love Editing and exploring new technologies!📚
   
 - 💬 Ask me about **Data Science,MERN**
 
